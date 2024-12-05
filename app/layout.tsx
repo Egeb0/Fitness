@@ -16,7 +16,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Fitness Tracker 💪",
-  description: "Take care of your adorable virtual pets!",
+  description: "Make sure to improve yourself!",
 };
 
 export default function RootLayout({
